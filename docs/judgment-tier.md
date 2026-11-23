@@ -1,9 +1,9 @@
 # A note on the judgment tier
 
-The two worked examples in this directory (`records-keeper.md`,
+The two worked examples in `agents/` (`records-keeper.md`,
 `document-intake.md`) cover the mechanical and pipeline tiers of the pattern
 described in `../PATTERN.md`. This file is a short note on the third tier —
-`opus`, judgment agents — rather than a full worked example, because a
+the judgment tier (the large tier in the mapping in PATTERN.md) — rather than a full worked example, because a
 judgment-tier agent's real substance is domain-specific: the evidence bar, the
 findings taxonomy, and the verdict vocabulary all depend heavily on what is
 actually being judged (a code review, an editorial review, a compliance
